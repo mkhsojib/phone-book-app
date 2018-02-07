@@ -10,7 +10,9 @@
 
 <div id="app">
 	
+<Myheader></Myheader>
 
+<Myfooter></Myfooter>
 
 </div>
 
