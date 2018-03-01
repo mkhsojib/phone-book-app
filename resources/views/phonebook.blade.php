@@ -9,8 +9,19 @@
 
 
 <div id="app">
+
+
+	<Myheader></Myheader>
+
+	<div class="container">
+
+		<router-view></router-view>
+
+	</div>
 	
-<Myheader></Myheader>
+
+
+
 
 <Myfooter></Myfooter>
 
